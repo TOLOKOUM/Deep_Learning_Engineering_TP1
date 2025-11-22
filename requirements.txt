@@ -1,0 +1,5 @@
+tensorflow-intel
+numpy
+mlflow
+flask
+
